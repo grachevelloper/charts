@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.69.1](https://github.com/gravity-ui/charts/compare/v1.69.0...v1.69.1) (2026-10-22)
+
+
+### Bug Fixes
+
+* add legend text tooltips and keyboard navigation ([#780](https://github.com/gravity-ui/charts/issues/780)) ([642e0b9](https://github.com/gravity-ui/charts/commit/642e0b98af44b96e78348052a5c596972db7f435))
+
 ## [1.69.0](https://github.com/gravity-ui/charts/compare/v1.68.0...v1.69.0) (2026-10-21)
 
 
